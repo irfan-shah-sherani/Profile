@@ -1,1 +1,7 @@
 @import "tailwindcss";
+.Bungee{
+    font-family: 'Bungee Inline', cursive;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
